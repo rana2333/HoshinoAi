@@ -1,7 +1,7 @@
 {
-	"Version": 3,
+	"Version": "Sample 1.0.0",
 	"FileReferences": {
-		"Moc": "Hoshino_Ai.moc3",
+		"model": "Hoshino_Ai.moc3",
 		"Textures": [
 			"Hoshino_Ai.8192/texture_00.png",
 			"Hoshino_Ai.8192/texture_01.png"
@@ -64,4 +64,3 @@
 		}
 	],
 	"HitAreas": []
-}
